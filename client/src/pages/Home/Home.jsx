@@ -6,6 +6,16 @@ const Home = () => {
   return (
     <>
     <Header />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
     <Footer />
     </>
   )
